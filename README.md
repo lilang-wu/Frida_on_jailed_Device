@@ -35,3 +35,8 @@ PID  Name    Identifier
 ---  ------  ---------------
 719  Gadget  re.frida.Gadget
 ```
+
+
+
+***
+issue: https://github.com/kabiroberai/theos-jailed/issues/46
